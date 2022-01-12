@@ -1,4 +1,5 @@
 # :wave: The Basics of GitHub 
+juanmajc
 
 ## 🤓 Course overview and learning outcomes 
 
